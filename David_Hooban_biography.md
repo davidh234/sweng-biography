@@ -69,15 +69,15 @@ To conclude, it is clear to me that Tim Berners-Lee has had a major impact on hu
 
 
 Reference List
-[1] https://www.w3.org/History/1989/proposal.html
-[2] https://www.w3.org/History/1989/proposal.html
-[3] https://www.w3.org/DesignIssues/TimBook-old/History.html
-[4] https://www.w3.org/DesignIssues/TimBook-old/History.html
-[5] https://www.w3.org/People/Berners-Lee/Kids.html
-[6] https://www.w3.org/Consortium/mission
-[7] http://dig.csail.mit.edu/Overview.html
-[8] http://news.bbc.co.uk/2/hi/technology/8597779.stm).
-[9] https://webfoundation.org/about/
-[10] https://webfoundation.org/our-work/
+[1] https://www.w3.org/History/1989/proposal.html  
+[2] https://www.w3.org/History/1989/proposal.html  
+[3] https://www.w3.org/DesignIssues/TimBook-old/History.html  
+[4] https://www.w3.org/DesignIssues/TimBook-old/History.html  
+[5] https://www.w3.org/People/Berners-Lee/Kids.html  
+[6] https://www.w3.org/Consortium/mission  
+[7] http://dig.csail.mit.edu/Overview.html  
+[8] http://news.bbc.co.uk/2/hi/technology/8597779.stm).  
+[9] https://webfoundation.org/about/  
+[10] https://webfoundation.org/our-work/  
 
 
