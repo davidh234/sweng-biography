@@ -1,37 +1,37 @@
 # Software Engineering Essay – By David Hooban (Student ID: 17328486)
-# Sir Tim Berners-Lee, O.M. Biography
-#                                    Early Life
-Sir Tim Berners-Lee, O.M. was born on the 8th of June 1955 in London, England. Berners-Lee studied physics at The Queens College, Oxford and graduated with a first class degree in 1976. While at university, Berners-Lee reconstructed a computer from a television set. Notably, both of Berners-Lee’s parents were computer scientists who worked on the Ferranti Mark 1, the first commercially built computer.
-# Career
-Berners-Lee first worked briefly at a company called Plessey, which was located in Dorset, England. Plessey was a telecommunications company, where Berners-Lee worked as an engineer.
+## Sir Tim Berners-Lee, O.M. Biography
+### Early Life
+Sir Tim Berners-Lee, O.M. was born on the 8th of June 1955 in London, England (1). Berners-Lee studied physics at The Queens College, Oxford and graduated with a first class degree in 1976 (2). While at university, Berners-Lee reconstructed a computer from a television set. Notably, both of Berners-Lee’s parents were computer scientists who worked on the Ferranti Mark 1, the first commercially built computer.
+### Career
+Berners-Lee first worked briefly at a company called Plessey, which was located in Dorset, England (3). Plessey was a telecommunications company, where Berners-Lee worked as an engineer.
 
-# CERN
-Berners-Lee joined CERN as a contractor for a brief period in 1980, between June and December. While there, he came up with the idea for a project based on hypertext, which is the idea of embedding links in text which, when clicked, will bring the user to other information. The main purpose of this idea was to facilitate information sharing at CERN, and to demonstrate this he built a prototype which was named Enquire, and fascinatingly the original proposal presentation for Enquire can be found online, stored by W3 (1). This solution was proposed by Berners-Lee to solve the problem of information loss at CERN, as Berners-Lee said himself “A problem, however, is the high turnover of people. When two years is a typical length of stay, information is constantly being lost … Often, the information has been recorded, it just cannot be found.”(2) Berners-Lee left CERN in late 1980, and worked at John Poole's Image Computer Systems, Ltd., located in Dorset, where he ran the technical side of the company. Berners-Lee returned to CERN in 1984 and realised that Enquire was not a success, as “I pretty soon realised that most of the coordination of the project boiled down to keeping this information up to date, and keeping everyone aware of changes”(3).
+### CERN
+Berners-Lee joined CERN as a contractor for a brief period in 1980, between June and December (4). While there, he came up with the idea for a project based on hypertext, which is the idea of embedding links in text which, when clicked, will bring the user to other information. The main purpose of this idea was to facilitate information sharing at CERN, and to demonstrate this he built a prototype which was named Enquire, and fascinatingly the original proposal presentation for Enquire can be found online, stored by W3 (5). This solution was proposed by Berners-Lee to solve the problem of information loss at CERN, as Berners-Lee said himself “A problem, however, is the high turnover of people. When two years is a typical length of stay, information is constantly being lost … Often, the information has been recorded, it just cannot be found.” (6) Berners-Lee left CERN in late 1980, and worked at John Poole's Image Computer Systems, Ltd., located in Dorset, where he ran the technical side of the company. Berners-Lee returned to CERN in 1984 and realised that Enquire was not a success, as “I pretty soon realised that most of the coordination of the project boiled down to keeping this information up to date, and keeping everyone aware of changes”(7).
 
-From the Enquire project, Berners-Lee recognised there was a role for hypertext to play in information management. As Berners-Lee stated: “There was clearly a need for something like Enquire but accessible to everyone” (4).
+From the Enquire project, Berners-Lee recognised there was a role for hypertext to play in information management. As Berners-Lee stated: “There was clearly a need for something like Enquire but accessible to everyone” (8).
 
-In 1989 at CERN, Berners-Lee had the idea to connect hypertext with the Transmission Control Protocol (TCP) and Domain Name System (DNS), and as Berners-Lee said “I just had to take the hypertext idea and connect it to the TCP and DNS ideas and -- ta-da! -- the World Wide Web”(5). It is an important point to recognise that Berners-Lee did not create the concept of hypertext, or the underlying protocols such as TCP or DNS. Rather, he integrated them together to form the ‘World Wide Web’ (WWW). 
+In 1989 at CERN, Berners-Lee had the idea to connect hypertext with the Transmission Control Protocol (TCP) and Domain Name System (DNS), and as Berners-Lee said “I just had to take the hypertext idea and connect it to the TCP and DNS ideas and -- ta-da! -- the World Wide Web” (9). It is an important point to recognise that Berners-Lee did not create the concept of hypertext, or the underlying protocols such as TCP or DNS. Rather, he integrated them together to form the ‘World Wide Web’ (WWW). (10)
 
-In 1989 and 1990 Berners-Lee wrote and distributed his proposal for the WWW and it was approved. Berners-Lee created the first web server, which was run off his computer from CERN (called CERN httpd). On the 6th of August 1991, the first website – info.cern.ch – was put online from this web server.
-
-
-# W3C
-In 1994, Berners-Lee founded W3C or World Wide Web Consortium, at MIT in the US. The aim of W3C is “to lead the World Wide Web to its full potential by developing protocols and guidelines that ensure the long-term growth of the Web”(6). It is focused on developing standards and recommendations to help improve the World Wide Web for everyone who uses it. W3C’s work was developed with the intention of being available to all as Berners-Lee and those at W3C felt that everyone should have access to their material, in order to effectively improve the WWW. Berners-Lee is currently the director of W3C. 
-
-In 1999 Berners-Lee became the first holder of 3Com Founders Chair at MIT. He also held some other positions at MIT, such as 3COM Founders Professor of Engineering in the School of Engineering, and he was also appointed to the Department of Electrical Engineering and Computer Science at CSAIL where he also leads the Decentralized Information Group (DIG). DIG work on making the WWW more decentralized and accessible to all, in such a way that users have control over their information, or “true data ownership”(7). DIG work on projects such as ‘Semantic Clipboard’, which allows users to copy an image with the license information about the image, such as the copyright information.
-
-In 2001, Berners-Lee was elected a Fellow in the Royal Society. In 2004, Berners-Lee was knighted for his efforts towards the development of the internet. In 2007, he also was a recipient of the Order of Merit, becoming just one of twenty four people to receive this award whilst still alive. The Order of Merit is awarded for some contribution in science amongst other categories such as the armed forces, art and literature. Berners-Lee has also received many honorary degrees from universities such as Manchester, Harvard and Yale to name just a few.
-
-# Berners-Lee and the UK Government
-In 2009, Berners-Lee joined forces with the UK government, as announced by then Prime Minister Gordon Brown; to be part of a UK task force whose aim was to make data on the World Wide Web more open and accessible to all who used it. He was a member of The Public Sector Transparency Board which was focused on improving the transparency of the government. One initiative that was successfully launched was making the Ordnance Survey maps in the UK free and available. Berners-Lee said on the matter “The changes signal a wider cultural change in Government based on an assumption that information should be in the public domain unless there is a good reason not to - not the other way around”(8). 
-
-In 2009 Berners-Lee also founded the World Wide Web Foundation, which is an organisation whose aim is “to advance the open web as a public good and a basic right”(9). The group is mainly focused on affecting policy change, through 3 different approaches: Through ‘partnerships and coalitions’, ‘Advocacy based on evidence’ and ‘through experimentation and innovation’(10). The group also undertakes a number of projects around topics such as women’s online rights and measuring the impact of data initiatives around the world.
-
-In 2017, Berners-Lee was awarded the Turing award for his work on developing the World Wide Web. The Turing award is regarded as one of the most prestigious awards in the field of computer science.
+In 1989 and 1990 Berners-Lee wrote and distributed his proposal for the WWW and it was approved. Berners-Lee created the first web server, which was run off his computer from CERN (called CERN httpd). On the 6th of August 1991, the first website – info.cern.ch – was put online from this web server. (11)
 
 
+### W3C
+In 1994, Berners-Lee founded W3C or World Wide Web Consortium, at MIT in the US (12). The aim of W3C is “to lead the World Wide Web to its full potential by developing protocols and guidelines that ensure the long-term growth of the Web” (13). It is focused on developing standards and recommendations to help improve the World Wide Web for everyone who uses it. W3C’s work was developed with the intention of being available to all as Berners-Lee and those at W3C felt that everyone should have access to their material, in order to effectively improve the WWW. Berners-Lee is currently the director of W3C. (14)
 
-# Tim Berners-Lee’s impact on myself and society
+In 1999 Berners-Lee became the first holder of 3Com Founders Chair at MIT (15). He also held some other positions at MIT, such as 3COM Founders Professor of Engineering in the School of Engineering, and he was also appointed to the Department of Electrical Engineering and Computer Science at CSAIL where he also leads the Decentralized Information Group (DIG) (16). DIG work on making the WWW more decentralized and accessible to all, in such a way that users have control over their information, or “true data ownership” (17). DIG work on projects such as ‘Semantic Clipboard’, which allows users to copy an image with the license information about the image, such as the copyright information.
+
+In 2001, Berners-Lee was elected a Fellow in the Royal Society (18). In 2004, Berners-Lee was knighted for his efforts towards the development of the internet (19). In 2007, he also was a recipient of the Order of Merit, becoming just one of twenty four people to receive this award whilst still alive (20). The Order of Merit is awarded for some contribution in science amongst other categories such as the armed forces, art and literature. Berners-Lee has also received many honorary degrees from universities such as Manchester, Harvard and Yale to name just a few. (21)
+
+### Berners-Lee and the UK Government
+In 2009, Berners-Lee joined forces with the UK government, as announced by then Prime Minister Gordon Brown; to be part of a UK task force whose aim was to make data on the World Wide Web more open and accessible to all who used it (22). He was a member of The Public Sector Transparency Board which was focused on improving the transparency of the government (23). One initiative that was successfully launched was making the Ordnance Survey maps in the UK free and available. Berners-Lee said on the matter “The changes signal a wider cultural change in Government based on an assumption that information should be in the public domain unless there is a good reason not to - not the other way around” (24). 
+
+In 2009 Berners-Lee also founded the World Wide Web Foundation, which is an organisation whose aim is “to advance the open web as a public good and a basic right” (25). The group is mainly focused on affecting policy change, through 3 different approaches: Through ‘partnerships and coalitions’, ‘Advocacy based on evidence’ and ‘through experimentation and innovation’ (26). The group also undertakes a number of projects around topics such as women’s online rights and measuring the impact of data initiatives around the world.
+
+In 2017, Berners-Lee was awarded the Turing award for his work on developing the World Wide Web (27). The Turing award is regarded as one of the most prestigious awards in the field of computer science.
+
+
+
+### Tim Berners-Lee’s impact on myself and society
 When choosing a software engineer to write about, especially in biographical form, I searched for someone who had a large impact on the entire field, whether this is through literature and discussion like Fred Brooks, or breakthroughs in problem solving like Donald Knuth and Edsger Dijkstra, I looked for someone who had both a storied background and contributed greatly to the field of software engineering as a whole. It became clear to me that one of the most influential software engineers of all time has to be Tim Berners-Lee. The World Wide Web’s value to humanity cannot be overstated. When we consider what are some of the best features of the internet, many would name the ability to share and access information on just about any topic as one of the best by far, and fundamentally this is what the World Wide Web enables.
 
 What is so influential to me is Berners-Lee’s solution-orientated approach. The ability to identify a useful tool and even when it doesn’t materialise as you may have hoped, like Enquire didn’t, to be able to identify the good and the bad, to separate them and adjust accordingly, and also to identify the value of the project should it succeed. This, in my mind, is a critical factor to succeed in ambitious projects and it is a philosophy I hold deeply, and it is easy to see that Berners-Lee shares this philosophy on some level.
@@ -69,15 +69,32 @@ To conclude, it is clear to me that Tim Berners-Lee has had a major impact on hu
 
 
 Reference List
-[1] https://www.w3.org/History/1989/proposal.html  
-[2] https://www.w3.org/History/1989/proposal.html  
-[3] https://www.w3.org/DesignIssues/TimBook-old/History.html  
+[1] https://www.w3.org/People/Berners-Lee/Longer.html  
+[2] https://www.w3.org/People/Berners-Lee/Longer.html  
+[3] https://www.w3.org/People/Berners-Lee/Longer.html  
 [4] https://www.w3.org/DesignIssues/TimBook-old/History.html  
-[5] https://www.w3.org/People/Berners-Lee/Kids.html  
-[6] https://www.w3.org/Consortium/mission  
-[7] http://dig.csail.mit.edu/Overview.html  
-[8] http://news.bbc.co.uk/2/hi/technology/8597779.stm).  
-[9] https://webfoundation.org/about/  
-[10] https://webfoundation.org/our-work/  
+[5] https://www.w3.org/History/1989/proposal.html  
+[6] https://www.w3.org/History/1989/proposal.html  
+[7] https://www.w3.org/DesignIssues/TimBook-old/History.html  
+[8] https://www.w3.org/DesignIssues/TimBook-old/History.html  
+[9] https://www.w3.org/People/Berners-Lee/Kids.html  
+[10] https://www.w3.org/People/Berners-Lee/Kids.html  
+[11] http://davidgalbraith.org/uncategorized/the-exact-location-where-the-web-was-invented/2343/  
+[12] https://www.w3.org/Consortium/facts.html  
+[13] https://www.w3.org/Consortium/mission  
+[14] https://www.w3.org/Consortium/facts.html  
+[15] http://news.mit.edu/2007/draper-prize  
+[16] https://www.w3.org/People/Berners-Lee/Longer.html  
+[17] http://dig.csail.mit.edu/Overview.html  
+[18] https://www.w3.org/People/Berners-Lee/Longer.html  
+[19] https://www.w3.org/People/Berners-Lee/Longer.html  
+[20] https://www.w3.org/People/Berners-Lee/Longer.html  
+[21] https://www.w3.org/People/Berners-Lee/Longer.html  
+[22] https://www.w3.org/News/2009#item98  
+[23] http://news.bbc.co.uk/2/hi/technology/8597779.stm  
+[24] http://news.bbc.co.uk/2/hi/technology/8597779.stm  
+[25] https://webfoundation.org/about/  
+[26] https://webfoundation.org/our-work/  
+[27] https://awards.acm.org/about/2016-turing  
 
 
